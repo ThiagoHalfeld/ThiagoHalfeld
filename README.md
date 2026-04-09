@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Thiago Halfeld, estudante de Sistema de Informação e apaixonado por tecnologia.</h1>
+<h2 align="center">Olá, sou Thiago Halfeld, estudante de Sistema de Informação e apaixonado por tecnologia.</h2>
 
 ###
 
