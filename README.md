@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Linguagens</h2>
+<h3 align="left">Linguagens</h3>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h3 align="left">Social Media</h3>
 
 ###
 
